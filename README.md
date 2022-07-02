@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fetalgiraffe
+- 👀 I’m interested in web development and aiming to work in Japan.
+- 🌱 I’m currently learning front-end web development.
+- 💻 I've built/maintained a few websites using Wordpress.
